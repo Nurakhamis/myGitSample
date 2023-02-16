@@ -1,0 +1,9 @@
+To run the code in this repository follow the steps below: 
+
+- Open command prompt: ==> go to the directory where you have saved the .js files:  myfirstmodule.js and mydatetime.js (Go to file you saved your files and copy the directory, go to cmd type cd space then the copied directory, may be change to {d or not} you can check (confirm) the content by typing dir) 
+
+- Run the command as npm install datetime  
+
+- Run the programme as node mydatetime.js  
+
+- Open the browser and type http://localhost:8080/
